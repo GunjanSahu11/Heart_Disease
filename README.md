@@ -1,0 +1,2 @@
+# Heart_Disease
+Heart disease could mean range of different conditions that could affect your heart. It is one of the most complex disease to predict given number of factors in your body that can potentially lead to it. Identifying and predicting it poses a great deal of challenge for doctors and researchers alike. I will attempt to take a stab at this problem using machine learning with the public dataset thats made available on kaggle.com
